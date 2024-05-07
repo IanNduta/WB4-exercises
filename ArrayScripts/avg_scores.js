@@ -13,4 +13,4 @@ function getAverage(array) {
     console.log(arrayAverage);
 }
 
-getAverage(yourScores);
+getAverage(myScores);
